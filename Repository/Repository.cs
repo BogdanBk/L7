@@ -25,9 +25,4 @@
     {
         return number % 2 == 0;
     }
-
-    public void Tmp()
-    {
-        for (int i = 0; i < reposiory.Count; i++) { Console.WriteLine(reposiory[i]); }
-    }
 }
